@@ -10,7 +10,7 @@
 <html>
 <head>
 <title>
-POS
+Pharmacy managment system 
 </title>
     <link rel="shortcut icon" href="main/images/pos.jpg">
 
